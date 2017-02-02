@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/bisonjames/Programs/tns/Groceries/platforms/android/build/intermediates/exploded-aar/Groceries/runtime/unspecified/jars/libs/binding-generator.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d82f3ca98719f09b65db6aeaf450ad3bafc46e81">
+        <dex dex="/Users/bisonjames/Programs/tns/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/binding-generator_684fc2b93ed3cfe04072edfcc7a19adb13deca48.jar" />
+    </item>
+    <item
+        jar="/Users/bisonjames/Programs/tns/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/bisonjames/Programs/tns/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-vector-drawable-25.1.1_f99254c098fe2d0130c67836a6f33ed8bc664126.jar" />
+    </item>
+    <item
+        jar="/Users/bisonjames/Programs/tns/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/Users/bisonjames/Programs/tns/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-transition-25.1.1_31822763f3091c862b4989d2767523ee9f364bf4.jar" />
+    </item>
+    <item
+        jar="/Users/bisonjames/Programs/tns/Groceries/platforms/android/build/intermediates/exploded-aar/Groceries/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="632bf39700c28ba66c117628dab343126ef89551">
+        <dex dex="/Users/bisonjames/Programs/tns/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/Groceries-runtime-unspecified_6a8185599a0fdcb6fb4b87baa6b66ce8d0f7a427.jar" />
+    </item>
+    <item
+        jar="/Users/bisonjames/Programs/tns/Groceries/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="8a73b09319cc3945912970487ced4c7724acc97d">
+        <dex dex="/Users/bisonjames/Programs/tns/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/intermediates-exploded-aar-widgets-release_753a97d0319e1ca130b75f3ebd48e4fe14cd98fd.jar" />
+    </item>
+    <item
+        jar="/Users/bisonjames/Programs/tns/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/bisonjames/Programs/tns/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-utils-25.1.1_89f5458afc24224c340cac0aae3a821999f78d93.jar" />
+    </item>
+    <item
+        jar="/Users/bisonjames/Programs/tns/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/bisonjames/Programs/tns/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-ui-25.1.1_a26bb85837cfd1ad2368d4060f614a0312af76c3.jar" />
+    </item>
+    <item
+        jar="/Users/bisonjames/Programs/tns/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/bisonjames/Programs/tns/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-compat-25.1.1_b3d52e13499c48fc782ad218e008c4f1a7beec43.jar" />
+    </item>
+    <item
+        jar="/Users/bisonjames/Programs/tns/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/Users/bisonjames/Programs/tns/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-recyclerview-v7-25.1.1_a8728c6bba191d456294efbf7a62be3d0eaea1ad.jar" />
+    </item>
+    <item
+        jar="/Users/bisonjames/Programs/tns/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/bisonjames/Programs/tns/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-media-compat-25.1.1_b5ff36d6def29b17515f314b125b43d1955a5c8a.jar" />
+    </item>
+    <item
+        jar="/Users/bisonjames/Programs/tns/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/Users/bisonjames/Programs/tns/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-design-25.1.1_8c097c05032179e4a818a90eead455a09604b187.jar" />
+    </item>
+    <item
+        jar="/Users/bisonjames/Programs/tns/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/bisonjames/Programs/tns/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-appcompat-v7-25.1.1_859cf05beda0a953ae54c29f55a8ea6971783af5.jar" />
+    </item>
+    <item
+        jar="/Users/bisonjames/Programs/tns/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/bisonjames/Programs/tns/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-animated-vector-drawable-25.1.1_800925580020f320c2ffaff96d5bd4c8ad8ae996.jar" />
+    </item>
+    <item
+        jar="/usr/local/opt/android-sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/bisonjames/Programs/tns/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/support-annotations-25.1.1_db3de1499fed4ae6b95f8f78d56192e715c93897.jar" />
+    </item>
+    <item
+        jar="/Users/bisonjames/Programs/tns/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/bisonjames/Programs/tns/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-v4-25.1.1_482f1a0ec63545d955bc5c9a40b0790681f78c23.jar" />
+    </item>
+    <item
+        jar="/Users/bisonjames/Programs/tns/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/bisonjames/Programs/tns/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-fragment-25.1.1_f84a785a8619aededd470b42dd40f764175de741.jar" />
+    </item>
+
+</items>

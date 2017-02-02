@@ -1,0 +1,12 @@
+<Page loaded="loaded">
+    <StackLayout orientation="vertical">
+
+        <TextField id="email" text="{{ email }}" hint="Email Address" keyboardType="email" autocorrect="false" autocapitalizationType="none" />
+        <TextField id="password" text="{{ password }}" hint="Password" secure="true" />
+
+        <Button class="button-color" text="Click" tap="click" />
+        <Button class="button-color" text="Sign in" tap="signIn" />
+        <Button class="button-color link" text="Sign up for Groceries" tap="register" />
+
+    </StackLayout>
+</Page>
